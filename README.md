@@ -33,7 +33,7 @@ Installation / Setup
 
 Clone the repository:
 
-git clone https://github.com/neshmitha/Online-Auction-System.git
+git clone https://github.com/neshmitha/OnlineAuctionSystem.git
 
 
 Open the project in Eclipse IDE.
